@@ -17,16 +17,16 @@
 
 ### Manage infrastructure
 
-- ~~Get Started with Terraform (complete all tutorials)~~
+- ~~Get Started with Terraform - **complete all tutorials**~~
 - ~~Providers documentation~~
 - ~~Purpose of Terraform State documentation~~
 - ~~Terraform Settings documentation~~
-- Provision Infrastructure Deployed with Terraform Learn tutorials
+- ~~Provision Infrastructure Deployed with Terraform - **Learn tutorials**~~
 - Provisioners documentation
-- Manage Resources in Terraform State Learn tutorial
-- Use Refresh-Only Mode to Sync Terraform State Learn tutorial
-- Lock and Upgrade Provider Versions Learn tutorial
-- Perform CRUD Operations with Providers Learn tutorial
+- Manage Resources in Terraform State - **Learn tutorial**
+- Use Refresh-Only Mode to Sync Terraform State - **Learn tutorial**
+- Lock and Upgrade Provider Versions - **Learn tutorial**
+- Perform CRUD Operations with Providers - **Learn tutorial**
 
 ### Master the workflow
 
@@ -39,14 +39,14 @@
 
 ### Learn more subcommands
 
-- Troubleshoot Terraform Learn tutorial
+- Troubleshoot Terraform - **Learn tutorial**
 - Formatting configuration with fmt documentation
 - Tainting resources with taint documentation
 - Managing state with state documentation
 - Using local workspaces with workspace documentation
-- Separate Development and Production Environments Learn tutorial
+- Separate Development and Production Environments - **Learn tutorial**
 - Importing existing resources with import documentation
-- Import Terraform Configuration Learn tutorial
+- Import Terraform Configuration - **Learn tutorial**
 
 ### Use and create modules
 
@@ -54,26 +54,26 @@
 - Finding and using modules documentation
 - Module versioning documentation
 - Input Variables documentation
-- Input Variables Learn tutorial
+- Input Variables - **Learn tutorial**
 - Output Values documentation
-- Output Values Learn tutorial
+- Output Values - **Learn tutorial**
 - Calling a child module documentation
 
 ### Read and write configuration
 
 - Resources describe infrastructure objects
 - Data sources let Terraform fetch and compute data
-- Query Data Sources Learn tutorial guides you through using data sources
+- Query Data Sources - **Learn tutorial** guides you through using data sources
 - Resource addressing lets you refer to specific resources
 - Named values let you reference values
-- Create Resource Dependencies Learn tutorial guides you through managing related infrastructure using implicit and explicit dependencies
+- Create Resource Dependencies - **Learn tutorial** guides you through managing related infrastructure using implicit and explicit dependencies
 - Terraforms Resource Graph ensures proper order of operations
 - Complex types let you validate user-provided values
 - Built in functions help transform and combine values
-- Perform Dynamic Operations with Functions Learn tutorial walks you through using Terraform functions
-- Create Dynamic Expressions Learn tutorial shows you how to create more complex expressions
+- Perform Dynamic Operations with Functions - **Learn tutorial** walks you through using Terraform functions
+- Create Dynamic Expressions - **Learn tutorial** shows you how to create more complex expressions
 - Dynamic blocks allow you to construct nested expressions within certain configuration blocks
-- Inject secrets into Terraform using the Vault provider Learn tutorial
+- Inject secrets into Terraform using the Vault provider - **Learn tutorial**
 - Vault Provider for Terraform documentation
 
 ### Manage state
@@ -83,16 +83,16 @@
 - State locking documentation
 - Sensitive data in state documentation
 - Reconcile state and real resources with refresh documentation
-- Manage Resource Drift Learn tutorial
+- Manage Resource Drift - **Learn tutorial**
 
 #### **Backend management**
 
-- Login to Terraform Cloud from the CLI Learn tutorial
+- Login to Terraform Cloud from the CLI - **Learn tutorial**
 - Backends overview documentation
 - Local backend documentation
 - Backend types documentation
 - How to configure a backend documentation
-- Migrate State to Terraform Cloud Learn tutorial
+- Migrate State to Terraform Cloud - **Learn tutorial**
 
 ### Debug in Terraform
 
@@ -105,8 +105,8 @@
 - CLI workspaces documentation
 - The UI- and VCS-driven Run Workflow documentation
 - Terraform Cloud workspaces documentation documentation
-- Use Modules from the Registry Learn tutorial
+- Use Modules from the Registry - **Learn tutorial**
 - Module registry documentation
-- Install the Sentinel CLI Learn tutorial
+- Install the Sentinel CLI - **Learn tutorial**
 - Sentinel Policy as Code documentation
 - Feature comparison pricing page (scroll down for feature matrix)

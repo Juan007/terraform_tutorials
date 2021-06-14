@@ -1,0 +1,7 @@
+learn-terraform-provisioning/tf-cloud-init.pub
+learn-terraform-provisioning/tf-cloud-init
+learn-terraform-azure/.terraform
+learn-terraform-docker-container/.terraform
+learn-terraform-provisioning/instances/.terraform
+*.tfstate*
+*.lock.hcl

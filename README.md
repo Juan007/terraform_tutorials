@@ -1,12 +1,17 @@
 # Terraform Associate Certification
 
+## Links
+
 - [Exam Review - Terraform Associate Certification](https://learn.hashicorp.com/tutorials/terraform/associate-review)
 - [Build AWS Infrastructure with Python](https://learn.hashicorp.com/tutorials/terraform/cdktf-build-python?in=terraform/cdktf)
 - [Associate Tutorial List](https://learn.hashicorp.com/collections/terraform/certification-associate-tutorials)
 
-## [Study Guide - Terraform Associate Certification](https://learn.hashicorp.com/tutorials/terraform/associate-study)
+## Study Guide - Terraform Associate Certification
 
-> Add strikeshough by pressing `ctrl + alt + s`
+Below is a list of items to cover from the [Study Guide](https://learn.hashicorp.com/tutorials/terraform/associate-study).  
+Items ~~striked-through~~ are done.
+
+> *Personal VS Code note:* Add strikeshough by highlighting text and pressing `ctrl + alt + s`
 
 ### Learn about IaC
 
@@ -22,9 +27,9 @@
 - ~~Purpose of Terraform State documentation~~
 - ~~Terraform Settings documentation~~
 - ~~Provision Infrastructure Deployed with Terraform - **Learn tutorials**~~
-- Provisioners documentation
-- Manage Resources in Terraform State - **Learn tutorial**
-- Use Refresh-Only Mode to Sync Terraform State - **Learn tutorial**
+- ~~Provisioners documentation~~
+- ~~Manage Resources in Terraform State - **Learn tutorial**~~
+- ~~Use Refresh-Only Mode to Sync Terraform State - **Learn tutorial**~~
 - Lock and Upgrade Provider Versions - **Learn tutorial**
 - Perform CRUD Operations with Providers - **Learn tutorial**
 

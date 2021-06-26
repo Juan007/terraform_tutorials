@@ -31,7 +31,7 @@ Items ~~striked-through~~ are done.
 - ~~Manage Resources in Terraform State - **Learn tutorial**~~
 - ~~Use Refresh-Only Mode to Sync Terraform State - **Learn tutorial**~~
 - ~~Lock and Upgrade Provider Versions - **Learn tutorial**~~
-- Perform CRUD Operations with Providers - **Learn tutorial**
+- ~~Perform CRUD Operations with Providers - **Learn tutorial**~~
 
 ### Master the workflow
 

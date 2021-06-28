@@ -35,12 +35,12 @@ Items ~~striked-through~~ are done.
 
 ### Master the workflow
 
-- The Core Terraform Workflow documentation
-- Initialize a Terraform working directory with init documentation
-- Validate a Terraform configuration with validate documentation
-- Generate and review an execution plan for Terraform with plan documentation
-- Execute changes to infrastructure with Terraform with apply documentation
-- Destroy Terraform managed infrastructure with destroy documentation
+- ~~The Core Terraform Workflow documentation~~
+- ~~Initialize a Terraform working directory with init documentation~~
+- ~~Validate a Terraform configuration with validate documentation~~
+- ~~Generate and review an execution plan for Terraform with plan documentation~~
+- ~~Execute changes to infrastructure with Terraform with apply documentation~~
+- ~~Destroy Terraform managed infrastructure with destroy documentation~~
 
 ### Learn more subcommands
 

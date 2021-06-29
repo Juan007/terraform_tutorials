@@ -44,7 +44,7 @@ Items ~~striked-through~~ are done.
 
 ### Learn more subcommands
 
-- Troubleshoot Terraform - **Learn tutorial**
+- ~~Troubleshoot Terraform - **Learn tutorial**~~
 - Formatting configuration with fmt documentation
 - Tainting resources with taint documentation
 - Managing state with state documentation

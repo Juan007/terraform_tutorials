@@ -13,6 +13,18 @@ Items ~~striked-through~~ are done.
 
 > *Personal VS Code note:* Add strikeshough by highlighting text and pressing `ctrl + alt + s`
 
+### Overview
+
+- ~~Learn about IaC~~
+- ~~Manage infrastructure~~
+- ~~Master the workflow~~
+- ~~Learn more subcommands~~
+- Use and create modules
+- Read and write configuration
+- Manage state
+- ~~Debug in Terraform~~
+- Understand Terraform Cloud and Enterprise
+
 ### Learn about IaC
 
 - ~~Infrastructure as Code introduction video~~
@@ -45,13 +57,13 @@ Items ~~striked-through~~ are done.
 ### Learn more subcommands
 
 - ~~Troubleshoot Terraform - **Learn tutorial**~~
-- Formatting configuration with fmt documentation
-- Tainting resources with taint documentation
-- Managing state with state documentation
-- Using local workspaces with workspace documentation
-- Separate Development and Production Environments - **Learn tutorial**
-- Importing existing resources with import documentation
-- Import Terraform Configuration - **Learn tutorial**
+- ~~Formatting configuration with fmt documentation~~
+- ~~Tainting resources with taint documentation~~
+- ~~Managing state with state documentation~~
+- ~~Using local workspaces with workspace documentation~~
+- ~~Separate Development and Production Environments - **Learn tutorial**~~
+- ~~Importing existing resources with import documentation~~
+- ~~Import Terraform Configuration - **Learn tutorial**~~
 
 ### Use and create modules
 
@@ -101,7 +113,7 @@ Items ~~striked-through~~ are done.
 
 ### Debug in Terraform
 
-- Review the debugging documentation
+- ~~Review the debugging documentation~~
 
 ### Understand Terraform Cloud and Enterprise
 

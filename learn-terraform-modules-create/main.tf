@@ -1,7 +1,7 @@
 # Terraform configuration
 
 provider "aws" {
-  region = "us-west-2"
+  region = "af-south-1"
 }
 
 module "vpc" {
@@ -41,7 +41,7 @@ module "ec2_instances" {
 module "website_s3_bucket" {
   source = "./modules/aws-s3-static-website-bucket"
 
-  bucket_name = "robin-test-dec-17-2019"
+  bucket_name = "juan-terraform-2021-07-05-02"
 
   tags = {
     Terraform   = "true"

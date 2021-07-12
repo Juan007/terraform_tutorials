@@ -19,11 +19,11 @@ Items ~~striked-through~~ are done.
 - ~~Manage infrastructure~~
 - ~~Master the workflow~~
 - ~~Learn more subcommands~~
-- Use and create modules
-- Read and write configuration
-- Manage state
+- ~~Use and create modules~~
+- ~~Read and write configuration~~
+- ~~Manage state~~
 - ~~Debug in Terraform~~
-- Understand Terraform Cloud and Enterprise
+- ~~Understand Terraform Cloud and Enterprise~~
 
 ### Learn about IaC
 
@@ -67,49 +67,49 @@ Items ~~striked-through~~ are done.
 
 ### Use and create modules
 
-- Organize Configuration with Modules (complete all tutorials)
-- Finding and using modules documentation
-- Module versioning documentation
-- Input Variables documentation
-- Input Variables - **Learn tutorial**
-- Output Values documentation
-- Output Values - **Learn tutorial**
-- Calling a child module documentation
+- ~~Organize Configuration with Modules (complete all tutorials)~~
+- ~~Finding and using modules documentation~~
+- ~~Module versioning documentation~~
+- ~~Input Variables documentation~~
+- ~~Input Variables - **Learn tutorial**~~
+- ~~Output Values documentation~~
+- ~~Output Values - **Learn tutorial**~~
+- ~~Calling a child module documentation~~
 
 ### Read and write configuration
 
-- Resources describe infrastructure objects
-- Data sources let Terraform fetch and compute data
-- Query Data Sources - **Learn tutorial** guides you through using data sources
-- Resource addressing lets you refer to specific resources
-- Named values let you reference values
-- Create Resource Dependencies - **Learn tutorial** guides you through managing related infrastructure using implicit and explicit dependencies
-- Terraforms Resource Graph ensures proper order of operations
-- Complex types let you validate user-provided values
-- Built in functions help transform and combine values
-- Perform Dynamic Operations with Functions - **Learn tutorial** walks you through using Terraform functions
-- Create Dynamic Expressions - **Learn tutorial** shows you how to create more complex expressions
-- Dynamic blocks allow you to construct nested expressions within certain configuration blocks
-- Inject secrets into Terraform using the Vault provider - **Learn tutorial**
-- Vault Provider for Terraform documentation
+- ~~Resources describe infrastructure objects~~
+- ~~Data sources let Terraform fetch and compute data~~
+- ~~Query Data Sources - **Learn tutorial** guides you through using data sources~~
+- ~~Resource addressing lets you refer to specific resources~~
+- ~~Named values let you reference values~~
+- ~~Create Resource Dependencies - **Learn tutorial** guides you through managing related infrastructure using implicit and explicit dependencies~~
+- ~~Terraforms Resource Graph ensures proper order of operations~~
+- ~~Complex types let you validate user-provided values~~
+- ~~Built in functions help transform and combine values~~
+- ~~Perform Dynamic Operations with Functions - **Learn tutorial** walks you through using Terraform functions~~
+- ~~Create Dynamic Expressions - **Learn tutorial** shows you how to create more complex expressions~~s
+- ~~Dynamic blocks allow you to construct nested expressions within certain configuration blocks~~
+- ~~Inject secrets into Terraform using the Vault provider - **Learn tutorial**~~
+- ~~Vault Provider for Terraform documentation~~
 
 ### Manage state
 
 #### **State management**
 
-- State locking documentation
-- Sensitive data in state documentation
-- Reconcile state and real resources with refresh documentation
-- Manage Resource Drift - **Learn tutorial**
+- ~~State locking documentation~~
+- ~~Sensitive data in state documentation~~
+- ~~Reconcile state and real resources with refresh documentation~~
+- ~~Manage Resource Drift - **Learn tutorial**~~
 
 #### **Backend management**
 
-- Login to Terraform Cloud from the CLI - **Learn tutorial**
-- Backends overview documentation
-- Local backend documentation
-- Backend types documentation
-- How to configure a backend documentation
-- Migrate State to Terraform Cloud - **Learn tutorial**
+- ~~Login to Terraform Cloud from the CLI - **Learn tutorial**~~
+- ~~Backends overview documentation~~
+- ~~Local backend documentation~~
+- ~~Backend types documentation~~
+- ~~How to configure a backend documentation~~
+- ~~Migrate State to Terraform Cloud - **Learn tutorial**~~
 
 ### Debug in Terraform
 
@@ -117,13 +117,13 @@ Items ~~striked-through~~ are done.
 
 ### Understand Terraform Cloud and Enterprise
 
-- Terraform Cloud overview documentation
-- Understanding Workspaces and Modules resource
-- CLI workspaces documentation
-- The UI- and VCS-driven Run Workflow documentation
-- Terraform Cloud workspaces documentation documentation
-- Use Modules from the Registry - **Learn tutorial**
-- Module registry documentation
-- Install the Sentinel CLI - **Learn tutorial**
-- Sentinel Policy as Code documentation
-- Feature comparison pricing page (scroll down for feature matrix)
+- ~~Terraform Cloud overview documentation~~
+- ~~Understanding Workspaces and Modules resource~~
+- ~~CLI workspaces documentation~~
+- ~~The UI- and VCS-driven Run Workflow documentation~~
+- ~~Terraform Cloud workspaces documentation documentation~~
+- ~~Use Modules from the Registry - **Learn tutorial**~~
+- ~~Module registry documentation~~
+- ~~Install the Sentinel CLI - **Learn tutorial**~~
+- ~~Sentinel Policy as Code documentation~~
+- ~~Feature comparison pricing page (scroll down for feature matrix)~~
